@@ -36,8 +36,12 @@ function setup()
     imgView:setImage_(img)
     
     view:addSubview_(imgView)
+
+    print("dfsdfasdflkjlsjdfadsf")
+    print("sdohifakljsdfajkls;fal;jks")
     
-    print("we love to have fun")
+    print("heysadfasdf")
+    print("God is good!!!")
 end
 
 -- This function gets called once every frame
