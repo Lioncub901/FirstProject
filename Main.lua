@@ -36,21 +36,13 @@ function setup()
     imgView:setImage_(img)
     
     view:addSubview_(imgView)
-
-    print("dfsdfasdflkjlsjdfadsf")
-    print("sdohifakljsdfajkls;fal;jks")
     
-    print("heysadfasdf")
-    print("God is good!!!")
-    
-    print("I love it")
+    print("we love to have fun")
 end
 
 -- This function gets called once every frame
 function draw()
 
-    style.fill(color(129, 50, 45))
-    print("last change")
     
 end
 
