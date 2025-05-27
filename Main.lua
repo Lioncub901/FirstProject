@@ -42,9 +42,6 @@ function setup()
     
     print("heysadfasdf")
     print("God is good!!!")
-    
-    print("today is a good day")
-    print("werwerwer")
 end
 
 -- This function gets called once every frame
