@@ -50,7 +50,7 @@ end
 function draw()
 
     style.fill(color(129, 50, 45))
-    print("dfssf")
+    print("last change")
     
 end
 
