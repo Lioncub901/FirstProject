@@ -49,6 +49,8 @@ end
 -- This function gets called once every frame
 function draw()
 
+    style.fill(color(129, 50, 45))
+    print("dfssf")
     
 end
 
