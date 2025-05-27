@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+	</array>
+	<key>Runtime Type</key>
+	<string>modern</string>
+	<key>Tint Color</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwaVSRudWxs2A0ODxAREhMU
+	FRYWFhcYFhlfEBVVSUNvbG9yQ29tcG9uZW50Q291bnRXVUlHcmVlblZVSUJsdWVXVUlB
+	bHBoYVVOU1JHQlYkY2xhc3NVVUlSZWRcTlNDb2xvclNwYWNlEAQiAAAAAEcwIDAgMCAw
+	gAIQAtMbHB0eHyFaJGNsYXNzbmFtZVgkY2xhc3Nlc1skY2xhc3NoaW50c1dVSUNvbG9y
+	oh4gWE5TT2JqZWN0oSJXTlNDb2xvcgAIABEAGgAkACkAMgA3AEkATABRAFMAVwBdAG4A
+	hgCOAJUAnQCjAKoAsAC9AL8AxADMAM4A0ADXAOIA6wD3AP8BAgELAQ0AAAAAAAACAQAA
+	AAAAAAAjAAAAAAAAAAAAAAAAAAABFQ==
+	</data>
+</dict>
+</plist>
